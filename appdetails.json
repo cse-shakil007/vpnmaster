@@ -24,5 +24,63 @@
     {"id":5, "file":1, "city":"Singapore","country":"United States","image":"singapore","ip":"103.11.67.169","active":"true","signal":"c"},
     {"id":6, "file":1, "city":"Singapore","country":"United States","image":"australia","ip":"103.11.67.169","active":"true","signal":"c"}
     
-  ]
+  ],
+  "data": [
+    {
+        "id": 0,
+        "city":"Bangkok",
+        "free": [
+            {
+                "file":0,
+                "city":"Bangkok",
+                "country":"United States",
+                "image":"thailand",
+                "ip":"103.11.67.169",
+                "active":"true",
+                "signal":"a"
+            },
+            {
+                "file":0,
+                "city":"Bangkok",
+                "country":"United States",
+                "image":"thailand",
+                "ip":"103.11.67.169",
+                "active":"true",
+                "signal":"a"
+            },
+            {
+                "file":0,
+                "city":"Bangkok",
+                "country":"United States",
+                "image":"thailand",
+                "ip":"103.11.67.169",
+                "active":"true",
+                "signal":"a"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "city":"USA",
+        "free": [
+            {
+                "file":0,
+                "city":"USA",
+                "country":"United States",
+                "image":"thailand",
+                "ip":"103.11.67.169",
+                "active":"true",
+                "signal":"a"
+            },
+            {
+                "file":0,
+                "city":"USA",
+                "country":"United States",
+                "image":"thailand",
+                "ip":"103.11.67.169",
+                "active":"true",
+                "signal":"a"
+            }
+        ]
+    }
 }
