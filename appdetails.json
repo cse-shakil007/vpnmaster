@@ -79,7 +79,7 @@
 		{
 			"id": 1,
 			"city": "USA",
-			"free": [{
+			"vip": [{
 					"id": 3,
 					"file": 0,
 					"city": "USA",
