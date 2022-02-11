@@ -1,4 +1,4 @@
- {
+{
 	"ads": "true",
 	"update": [{
 		"version": "2.8.2000",
@@ -39,6 +39,7 @@
 			"id": 0,
 			"city": "Bangkok",
 			"free": [{
+					"id": 0,
 					"file": 0,
 					"city": "Bangkok",
 					"country": "United States",
@@ -50,6 +51,7 @@
 					"signal": "a"
 				},
 				{
+				    "id": 1,
 					"file": 0,
 					"city": "Bangkok",
 					"country": "United States",
@@ -61,6 +63,7 @@
 					"signal": "a"
 				},
 				{
+				    "id": 2,
 					"file": 0,
 					"city": "Bangkok",
 					"country": "United States",
@@ -77,6 +80,7 @@
 			"id": 1,
 			"city": "USA",
 			"free": [{
+					"id": 3,
 					"file": 0,
 					"city": "USA",
 					"country": "United States",
@@ -88,6 +92,7 @@
 					"signal": "a"
 				},
 				{
+				    "id": 4,
 					"file": 0,
 					"city": "USA",
 					"country": "United States",
