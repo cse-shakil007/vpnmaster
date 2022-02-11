@@ -101,6 +101,31 @@
 					"active": "true",
 					"signal": "a"
 				}
+			],
+			"vip": [{
+					"id": 3,
+					"file": 0,
+					"city": "USA",
+					"country": "United States",
+					"image": "thailand",
+					"ip": "103.11.67.169",
+					"username": "tcpvpn.com-vpnmasterpro",
+					"password": "vpnmasterpro",
+					"active": "true",
+					"signal": "a"
+				},
+				{
+					"id": 4,
+					"file": 0,
+					"city": "USA",
+					"country": "United States",
+					"image": "thailand",
+					"ip": "103.11.67.169",
+					"username": "tcpvpn.com-vpnmasterpro",
+					"password": "vpnmasterpro",
+					"active": "true",
+					"signal": "a"
+				}
 			]
 		}
 	]
