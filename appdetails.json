@@ -73,6 +73,42 @@
 					"active": "true",
 					"signal": "a"
 				}
+			],"vip": [{
+					"id": 0,
+					"file": 0,
+					"city": "Bangkok",
+					"country": "United States",
+					"image": "thailand",
+					"ip": "103.11.67.169",
+					"username": "tcpvpn.com-vpnmasterpro",
+					"password": "vpnmasterpro",
+					"active": "true",
+					"signal": "a"
+				},
+				{
+					"id": 1,
+					"file": 0,
+					"city": "Bangkok",
+					"country": "United States",
+					"image": "thailand",
+					"ip": "103.11.67.169",
+					"username": "tcpvpn.com-vpnmasterpro",
+					"password": "vpnmasterpro",
+					"active": "true",
+					"signal": "a"
+				},
+				{
+					"id": 2,
+					"file": 0,
+					"city": "Bangkok",
+					"country": "United States",
+					"image": "thailand",
+					"ip": "103.11.67.169",
+					"username": "tcpvpn.com-vpnmasterpro",
+					"password": "vpnmasterpro",
+					"active": "true",
+					"signal": "a"
+				}
 			]
 		},
 		{
