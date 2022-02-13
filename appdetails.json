@@ -39,7 +39,7 @@
 			"city": "Bangkok",
 			"free": [{
 					"id": 0,
-					"file": 0,
+					"file": 1,
 					"city": "Bangkok",
 					"country": "United States",
 					"image": "thailand",
@@ -51,7 +51,7 @@
 				},
 				{
 					"id": 1,
-					"file": 0,
+					"file": 1,
 					"city": "Bangkok",
 					"country": "United States",
 					"image": "thailand",
@@ -103,7 +103,7 @@
 			"city": "USA",
 			"free": [{
 					"id": 0,
-					"file": 0,
+					"file": 1,
 					"city": "USA",
 					"country": "United States",
 					"image": "thailand",
@@ -115,7 +115,7 @@
 				},
 				{
 					"id": 1,
-					"file": 0,
+					"file": 1,
 					"city": "USA",
 					"country": "United States",
 					"image": "thailand",
