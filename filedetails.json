@@ -1,11 +1,11 @@
 {
 	"ovpn_file": [{
 			"id": 0,
-			"file": "client </tls-auth>"
+			"file": "client 0 </tls-auth>"
 		},
 		{
 			"id": 1,
-			"file": "client </tls-auth>"
+			"file": "client 1 </tls-auth>"
 
 		}
 	]
