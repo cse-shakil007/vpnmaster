@@ -37,7 +37,7 @@
 	],
 	"data": [{
 			"city": "Bangkok",
-			"free": {
+			"free": [{
 					"id": 0,
 					"file": 1,
 					"city": "Bangkok",
@@ -72,9 +72,8 @@
 					"password": "vpnmasterpro",
 					"active": "true",
 					"signal": "a"
-				},
-		 
-			"vip": {
+				}
+			],"vip": [{
 					"id": 0,
 					"file": 0,
 					"city": "Bangkok2",
@@ -98,11 +97,11 @@
 					"active": "true",
 					"signal": "a"
 				}
-			
+			]
 		},
 		{
 			"city": "USA",
-			"free": {
+			"free": [{
 					"id": 0,
 					"file": 1,
 					"city": "USA",
@@ -125,9 +124,9 @@
 					"password": "vpnmasterpro",
 					"active": "true",
 					"signal": "a"
-				},
-			
-			"vip": {
+				}
+			],
+			"vip": [{
 					"id": 0,
 					"file": 0,
 					"city": "USA2",
@@ -163,7 +162,7 @@
 					"active": "true",
 					"signal": "a"
 				}
-			
+			]
 		}
 	]
 }
